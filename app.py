@@ -9,7 +9,7 @@ if __name__ == "__main__":
     main()
 
 def login(username):
-    print(f"User {username} logged in.")
+    print(f"User {username} locked in.")
 
 def logout(username):
     print(f"User {username} logged out.")

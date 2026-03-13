@@ -12,4 +12,4 @@ def login(username):
     print(f"User {username} locked in.")
 
 def logout(username):
-    print(f"User {username} logged out.")
+    print(f"User {username} locked dsadasdasdsadsadout.")
